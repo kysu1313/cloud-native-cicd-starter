@@ -7,7 +7,7 @@ syncPolicy:
   syncOptions:
     - CreateNamespace=true
 gitops:
-  repoURL: https://github.com/krumIO/cloud-native-cicd-starter.git
+  repoURL: https://github.com/kysu1313/cloud-native-cicd-starter.git
 spec:
   applications:
     # - name: baseline-wp
