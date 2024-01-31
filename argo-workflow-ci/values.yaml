@@ -23,7 +23,7 @@ github:
     baseline-vue-app:
       values: baseline-vue-values.yaml
       branches:
-    #     main: "baseline-vue-app"
+        main: "baseline-vue-app"
     # example-laravel-app:
     #   values: baseline-laravel-values.yaml
     #   branches:
